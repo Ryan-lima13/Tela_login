@@ -8,3 +8,10 @@ main{
     background-color: rgba(228, 227, 227, 0.904);
     border: 1px solid #2e6720;
 }
+main h1{
+    text-align: center;
+    padding: 10px;
+    font: normal 30px Arial;
+    font-weight: bold;
+    color: #2e6720;
+}
