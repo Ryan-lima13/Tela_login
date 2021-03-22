@@ -40,3 +40,16 @@ input{
     border: 1px solid #3d9db3;
     color: #e9ecec;
 }
+#conecta{
+    padding: 10px;
+    text-align: right;
+    color: #949a9c;
+    background-color: #e1eaeb;
+    margin-top: 20px;
+}
+#conecta a{
+    text-decoration: none;
+    color: #3d9db3;
+    background-color: #f7f8f8;
+    border: 2px solid #dbe173;
+}
