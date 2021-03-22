@@ -18,4 +18,11 @@ main h1{
 #box-input{
 
     padding: 10px;
+    font:normal 20px Arial;
+    color: #2e6720;
+    margin: 10px;
+    
+}
+.destaque{
+    display: block;
 }
