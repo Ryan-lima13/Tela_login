@@ -17,7 +17,7 @@ main h1{
 }
 #box-input{
 
-    padding: 10px;
+    padding: 5px;
     font:normal 20px Arial;
     color: #2e6720;
     margin: 10px;
@@ -25,4 +25,10 @@ main h1{
 }
 .destaque{
     display: block;
+}
+input[type=email], input[type=password]{
+    width: 300px;
+}
+input{
+    border: 2px solid gray;
 }
