@@ -34,3 +34,11 @@ input{
     font-weight: bold;
     color: #4f949c;
 }
+#btn1{
+    width: 200px;
+    margin-left: 70px;
+    padding: 5px;
+    background-color: #3d9db3;
+    border: 1px solid #3d9db3;
+    color: #e9ecec;
+}
