@@ -11,3 +11,13 @@ main{
 .block{
     display: block;
 }
+#form-cadastro{
+    padding: 10px;
+
+}
+#form-box{
+    padding: 5px;
+    font:normal 20px Arial;
+    color: #849598;
+    margin: 10px;
+}
