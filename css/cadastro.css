@@ -1,7 +1,7 @@
 main{
     width: 400px;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 100px;
     background-color: #f6f6f6;
     border: 1px solid #3d9db3;
 }
@@ -20,4 +20,17 @@ main{
     font:normal 20px Arial;
     color: #849598;
     margin: 10px;
+}
+input[type=email], input[type=password], input[type=text]{
+    width: 300px;
+}
+input{
+    border: 2px solid gray;
+}
+#cabe{
+    text-align: center;
+    padding: 10px;
+    font: normal 30px Arial;
+    font-weight: bold;
+    color: #4f949c;
 }
