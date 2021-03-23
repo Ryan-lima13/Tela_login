@@ -5,3 +5,9 @@ main{
     background-color: #f6f6f6;
     border: 1px solid #3d9db3;
 }
+.destaque{
+    color: red;
+}
+.block{
+    display: block;
+}
